@@ -1,0 +1,90 @@
+
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+  (Down)
+SFFF
+[41mF[0mHFH
+FFFH
+HFFG
+  (Left)
+SFFF
+[41mF[0mHFH
+FFFH
+HFFG
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+  (Right)
+S[41mF[0mFF
+FHFH
+FFFH
+HFFG
+  (Right)
+SF[41mF[0mF
+FHFH
+FFFH
+HFFG
+  (Down)
+SFFF
+FH[41mF[0mH
+FFFH
+HFFG
+  (Down)
+SFFF
+FHFH
+FF[41mF[0mH
+HFFG
+  (Down)
+SFFF
+FHFH
+FFFH
+HF[41mF[0mG
+  (Down)
+SFFF
+FHFH
+FFFH
+HF[41mF[0mG
+  (Right)
+SFFF
+FHFH
+FFFH
+HFF[41mG[0m

@@ -1,0 +1,29 @@
+Final delta: 2.1652931048166124e-07
+V1:
+(0, 1) -1.0
+(0, 2) 10.0
+(1, 2) -1.0
+
+V2:
+(0, 1) 8.0
+(0, 2) 10.0
+(1, 2) 5.21
+
+Final Values:
+[4.2, 8.0, 10.0, 0.0]
+[2.78, '#', 5.8242, 0.0]
+[1.5358, 2.8176, 4.2418, 2.8176]
+
+Optimal Policy:
+['R', 'R', 'R', 'G']
+['U', '#', 'U', 'H']
+['R', 'R', 'U', 'L']
+
+Iterations: 12
+
+All model checks passed!
+
+Base Map Simulation:
+Batch: 11 Goals: 42 Holes: 8 Time limits: 0 Mean steps: 4.98 Mean discounted return: 0.8913
+Batch: 22 Goals: 46 Holes: 4 Time limits: 0 Mean steps: 5.04 Mean discounted return: 1.9148
+Batch: 33 Goals: 48 Holes: 2 Time limits: 0 Mean steps: 5.04 Mean discounted return: 2.4921

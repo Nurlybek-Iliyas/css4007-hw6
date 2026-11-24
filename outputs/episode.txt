@@ -1,0 +1,54 @@
+
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+  (Down)
+SFFF
+[41mF[0mHFH
+FFFH
+HFFG
+  (Down)
+SFFF
+FHFH
+[41mF[0mFFH
+HFFG
+  (Right)
+SFFF
+FHFH
+F[41mF[0mFH
+HFFG
+  (Left)
+SFFF
+FHFH
+[41mF[0mFFH
+HFFG
+  (Up)
+SFFF
+[41mF[0mHFH
+FFFH
+HFFG
+  (Down)
+SFFF
+FHFH
+[41mF[0mFFH
+HFFG
+  (Down)
+SFFF
+FHFH
+FFFH
+[41mH[0mFFG
+
+Steps: 9
+Total reward: 0
+Outcome: hole

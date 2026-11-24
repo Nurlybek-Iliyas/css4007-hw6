@@ -1,0 +1,35 @@
+
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+  (Right)
+S[41mF[0mFF
+FHFH
+FFFH
+HFFG
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+  (Right)
+S[41mF[0mFF
+FHFH
+FFFH
+HFFG
+  (Down)
+SFFF
+F[41mH[0mFH
+FFFH
+HFFG
