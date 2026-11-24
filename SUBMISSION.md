@@ -12,7 +12,7 @@ Python and Gymnasium were used to implement and run the experiments. All code wa
 
 - Python 3.13.2
 - Gymnasium 1.4.0
-- Operating system: Windows
+- Operating system: MacOS
 
 ### Installation
 
